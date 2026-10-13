@@ -1,0 +1,3624 @@
+{
+  "grades": {
+    "4": {
+      "word_problems": [
+        {
+          "id": 4001,
+          "question": "Max hat 21 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "18",
+            "20",
+            "17",
+            "22"
+          ],
+          "correctAnswer": "18",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4002,
+          "question": "Max hat 22 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "18",
+            "20",
+            "17",
+            "22"
+          ],
+          "correctAnswer": "18",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4003,
+          "question": "Max hat 23 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "18",
+            "20",
+            "17",
+            "22"
+          ],
+          "correctAnswer": "18",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4004,
+          "question": "Max hat 24 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "18",
+            "20",
+            "17",
+            "22"
+          ],
+          "correctAnswer": "18",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4005,
+          "question": "Max hat 25 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "23",
+            "25",
+            "22",
+            "27"
+          ],
+          "correctAnswer": "23",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4006,
+          "question": "Max hat 26 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "23",
+            "25",
+            "22",
+            "27"
+          ],
+          "correctAnswer": "23",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4007,
+          "question": "Max hat 27 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "23",
+            "25",
+            "22",
+            "27"
+          ],
+          "correctAnswer": "23",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4008,
+          "question": "Max hat 28 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "23",
+            "25",
+            "22",
+            "27"
+          ],
+          "correctAnswer": "23",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4009,
+          "question": "Max hat 29 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "23",
+            "25",
+            "22",
+            "27"
+          ],
+          "correctAnswer": "23",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4010,
+          "question": "Max hat 30 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "28",
+            "30",
+            "27",
+            "32"
+          ],
+          "correctAnswer": "28",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4011,
+          "question": "Max hat 31 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "28",
+            "30",
+            "27",
+            "32"
+          ],
+          "correctAnswer": "28",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4012,
+          "question": "Max hat 32 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "28",
+            "30",
+            "27",
+            "32"
+          ],
+          "correctAnswer": "28",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4013,
+          "question": "Max hat 33 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "28",
+            "30",
+            "27",
+            "32"
+          ],
+          "correctAnswer": "28",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4014,
+          "question": "Max hat 34 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "28",
+            "30",
+            "27",
+            "32"
+          ],
+          "correctAnswer": "28",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4015,
+          "question": "Max hat 35 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "33",
+            "35",
+            "32",
+            "37"
+          ],
+          "correctAnswer": "33",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4016,
+          "question": "Max hat 36 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "33",
+            "35",
+            "32",
+            "37"
+          ],
+          "correctAnswer": "33",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4017,
+          "question": "Max hat 37 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "33",
+            "35",
+            "32",
+            "37"
+          ],
+          "correctAnswer": "33",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4018,
+          "question": "Max hat 38 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "33",
+            "35",
+            "32",
+            "37"
+          ],
+          "correctAnswer": "33",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4019,
+          "question": "Max hat 39 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "33",
+            "35",
+            "32",
+            "37"
+          ],
+          "correctAnswer": "33",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4020,
+          "question": "Max hat 40 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "38",
+            "40",
+            "37",
+            "42"
+          ],
+          "correctAnswer": "38",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4021,
+          "question": "Max hat 41 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "38",
+            "40",
+            "37",
+            "42"
+          ],
+          "correctAnswer": "38",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4022,
+          "question": "Max hat 42 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "38",
+            "40",
+            "37",
+            "42"
+          ],
+          "correctAnswer": "38",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4023,
+          "question": "Max hat 43 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "38",
+            "40",
+            "37",
+            "42"
+          ],
+          "correctAnswer": "38",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4024,
+          "question": "Max hat 44 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "38",
+            "40",
+            "37",
+            "42"
+          ],
+          "correctAnswer": "38",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4025,
+          "question": "Max hat 45 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "43",
+            "45",
+            "42",
+            "47"
+          ],
+          "correctAnswer": "43",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4026,
+          "question": "Max hat 46 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "43",
+            "45",
+            "42",
+            "47"
+          ],
+          "correctAnswer": "43",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4027,
+          "question": "Max hat 47 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "43",
+            "45",
+            "42",
+            "47"
+          ],
+          "correctAnswer": "43",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4028,
+          "question": "Max hat 48 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "43",
+            "45",
+            "42",
+            "47"
+          ],
+          "correctAnswer": "43",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4029,
+          "question": "Max hat 49 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "43",
+            "45",
+            "42",
+            "47"
+          ],
+          "correctAnswer": "43",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4030,
+          "question": "Max hat 50 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "48",
+            "50",
+            "47",
+            "52"
+          ],
+          "correctAnswer": "48",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4031,
+          "question": "Max hat 51 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "48",
+            "50",
+            "47",
+            "52"
+          ],
+          "correctAnswer": "48",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4032,
+          "question": "Max hat 52 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "48",
+            "50",
+            "47",
+            "52"
+          ],
+          "correctAnswer": "48",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4033,
+          "question": "Max hat 53 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "48",
+            "50",
+            "47",
+            "52"
+          ],
+          "correctAnswer": "48",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4034,
+          "question": "Max hat 54 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "48",
+            "50",
+            "47",
+            "52"
+          ],
+          "correctAnswer": "48",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4035,
+          "question": "Max hat 55 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "53",
+            "55",
+            "52",
+            "57"
+          ],
+          "correctAnswer": "53",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4036,
+          "question": "Max hat 56 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "53",
+            "55",
+            "52",
+            "57"
+          ],
+          "correctAnswer": "53",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4037,
+          "question": "Max hat 57 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "53",
+            "55",
+            "52",
+            "57"
+          ],
+          "correctAnswer": "53",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4038,
+          "question": "Max hat 58 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "53",
+            "55",
+            "52",
+            "57"
+          ],
+          "correctAnswer": "53",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4039,
+          "question": "Max hat 59 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "53",
+            "55",
+            "52",
+            "57"
+          ],
+          "correctAnswer": "53",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4040,
+          "question": "Max hat 60 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "58",
+            "60",
+            "57",
+            "62"
+          ],
+          "correctAnswer": "58",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4041,
+          "question": "Max hat 61 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "58",
+            "60",
+            "57",
+            "62"
+          ],
+          "correctAnswer": "58",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4042,
+          "question": "Max hat 62 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "58",
+            "60",
+            "57",
+            "62"
+          ],
+          "correctAnswer": "58",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4043,
+          "question": "Max hat 63 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "58",
+            "60",
+            "57",
+            "62"
+          ],
+          "correctAnswer": "58",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4044,
+          "question": "Max hat 64 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "58",
+            "60",
+            "57",
+            "62"
+          ],
+          "correctAnswer": "58",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4045,
+          "question": "Max hat 65 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "63",
+            "65",
+            "62",
+            "67"
+          ],
+          "correctAnswer": "63",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4046,
+          "question": "Max hat 66 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "63",
+            "65",
+            "62",
+            "67"
+          ],
+          "correctAnswer": "63",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4047,
+          "question": "Max hat 67 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "63",
+            "65",
+            "62",
+            "67"
+          ],
+          "correctAnswer": "63",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4048,
+          "question": "Max hat 68 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "63",
+            "65",
+            "62",
+            "67"
+          ],
+          "correctAnswer": "63",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4049,
+          "question": "Max hat 69 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "63",
+            "65",
+            "62",
+            "67"
+          ],
+          "correctAnswer": "63",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4050,
+          "question": "Max hat 70 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "68",
+            "70",
+            "67",
+            "72"
+          ],
+          "correctAnswer": "68",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4051,
+          "question": "Max hat 71 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "68",
+            "70",
+            "67",
+            "72"
+          ],
+          "correctAnswer": "68",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4052,
+          "question": "Max hat 72 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "68",
+            "70",
+            "67",
+            "72"
+          ],
+          "correctAnswer": "68",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4053,
+          "question": "Max hat 73 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "68",
+            "70",
+            "67",
+            "72"
+          ],
+          "correctAnswer": "68",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4054,
+          "question": "Max hat 74 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "68",
+            "70",
+            "67",
+            "72"
+          ],
+          "correctAnswer": "68",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4055,
+          "question": "Max hat 75 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "73",
+            "75",
+            "72",
+            "77"
+          ],
+          "correctAnswer": "73",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4056,
+          "question": "Max hat 76 Murmeln. Er schenkt seinem Freund 3 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "73",
+            "75",
+            "72",
+            "77"
+          ],
+          "correctAnswer": "73",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4057,
+          "question": "Max hat 77 Murmeln. Er schenkt seinem Freund 4 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "73",
+            "75",
+            "72",
+            "77"
+          ],
+          "correctAnswer": "73",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4058,
+          "question": "Max hat 78 Murmeln. Er schenkt seinem Freund 5 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "73",
+            "75",
+            "72",
+            "77"
+          ],
+          "correctAnswer": "73",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4059,
+          "question": "Max hat 79 Murmeln. Er schenkt seinem Freund 6 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "73",
+            "75",
+            "72",
+            "77"
+          ],
+          "correctAnswer": "73",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        },
+        {
+          "id": 4060,
+          "question": "Max hat 80 Murmeln. Er schenkt seinem Freund 2 Stück. Wie viele Murmeln hat Max jetzt noch?",
+          "options": [
+            "78",
+            "80",
+            "77",
+            "82"
+          ],
+          "correctAnswer": "78",
+          "hint": "Subtrahiere die verschenkten Murmeln von der Startanzahl."
+        }
+      ]
+    },
+    "5": {
+      "word_problems": [
+        {
+          "id": 4061,
+          "question": "Ein Heft kostet 2,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "7,50 €",
+            "8,50 €",
+            "7,00 €",
+            "9,50 €"
+          ],
+          "correctAnswer": "7,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4062,
+          "question": "Ein Heft kostet 3,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,00 €",
+            "13,00 €",
+            "11,50 €",
+            "14,00 €"
+          ],
+          "correctAnswer": "12,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4063,
+          "question": "Ein Heft kostet 3,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "17,50 €",
+            "18,50 €",
+            "17,00 €",
+            "19,50 €"
+          ],
+          "correctAnswer": "17,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4064,
+          "question": "Ein Heft kostet 4,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "8,00 €",
+            "9,00 €",
+            "7,50 €",
+            "10,00 €"
+          ],
+          "correctAnswer": "8,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4065,
+          "question": "Ein Heft kostet 4,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "13,50 €",
+            "14,50 €",
+            "13,00 €",
+            "15,50 €"
+          ],
+          "correctAnswer": "13,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4066,
+          "question": "Ein Heft kostet 5,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "20,00 €",
+            "21,00 €",
+            "19,50 €",
+            "22,00 €"
+          ],
+          "correctAnswer": "20,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4067,
+          "question": "Ein Heft kostet 5,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "27,50 €",
+            "28,50 €",
+            "27,00 €",
+            "29,50 €"
+          ],
+          "correctAnswer": "27,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4068,
+          "question": "Ein Heft kostet 6,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,00 €",
+            "13,00 €",
+            "11,50 €",
+            "14,00 €"
+          ],
+          "correctAnswer": "12,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4069,
+          "question": "Ein Heft kostet 6,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "19,50 €",
+            "20,50 €",
+            "19,00 €",
+            "21,50 €"
+          ],
+          "correctAnswer": "19,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4070,
+          "question": "Ein Heft kostet 2,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "8,00 €",
+            "9,00 €",
+            "7,50 €",
+            "10,00 €"
+          ],
+          "correctAnswer": "8,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4071,
+          "question": "Ein Heft kostet 2,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,50 €",
+            "13,50 €",
+            "12,00 €",
+            "14,50 €"
+          ],
+          "correctAnswer": "12,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4072,
+          "question": "Ein Heft kostet 3,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "6,00 €",
+            "7,00 €",
+            "5,50 €",
+            "8,00 €"
+          ],
+          "correctAnswer": "6,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4073,
+          "question": "Ein Heft kostet 3,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "10,50 €",
+            "11,50 €",
+            "10,00 €",
+            "12,50 €"
+          ],
+          "correctAnswer": "10,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4074,
+          "question": "Ein Heft kostet 4,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "16,00 €",
+            "17,00 €",
+            "15,50 €",
+            "18,00 €"
+          ],
+          "correctAnswer": "16,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4075,
+          "question": "Ein Heft kostet 4,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "22,50 €",
+            "23,50 €",
+            "22,00 €",
+            "24,50 €"
+          ],
+          "correctAnswer": "22,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4076,
+          "question": "Ein Heft kostet 5,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "10,00 €",
+            "11,00 €",
+            "9,50 €",
+            "12,00 €"
+          ],
+          "correctAnswer": "10,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4077,
+          "question": "Ein Heft kostet 5,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "16,50 €",
+            "17,50 €",
+            "16,00 €",
+            "18,50 €"
+          ],
+          "correctAnswer": "16,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4078,
+          "question": "Ein Heft kostet 6,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "24,00 €",
+            "25,00 €",
+            "23,50 €",
+            "26,00 €"
+          ],
+          "correctAnswer": "24,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4079,
+          "question": "Ein Heft kostet 6,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "32,50 €",
+            "33,50 €",
+            "32,00 €",
+            "34,50 €"
+          ],
+          "correctAnswer": "32,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4080,
+          "question": "Ein Heft kostet 2,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "4,00 €",
+            "5,00 €",
+            "3,50 €",
+            "6,00 €"
+          ],
+          "correctAnswer": "4,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4081,
+          "question": "Ein Heft kostet 2,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "7,50 €",
+            "8,50 €",
+            "7,00 €",
+            "9,50 €"
+          ],
+          "correctAnswer": "7,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4082,
+          "question": "Ein Heft kostet 3,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,00 €",
+            "13,00 €",
+            "11,50 €",
+            "14,00 €"
+          ],
+          "correctAnswer": "12,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4083,
+          "question": "Ein Heft kostet 3,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "17,50 €",
+            "18,50 €",
+            "17,00 €",
+            "19,50 €"
+          ],
+          "correctAnswer": "17,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4084,
+          "question": "Ein Heft kostet 4,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "8,00 €",
+            "9,00 €",
+            "7,50 €",
+            "10,00 €"
+          ],
+          "correctAnswer": "8,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4085,
+          "question": "Ein Heft kostet 4,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "13,50 €",
+            "14,50 €",
+            "13,00 €",
+            "15,50 €"
+          ],
+          "correctAnswer": "13,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4086,
+          "question": "Ein Heft kostet 5,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "20,00 €",
+            "21,00 €",
+            "19,50 €",
+            "22,00 €"
+          ],
+          "correctAnswer": "20,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4087,
+          "question": "Ein Heft kostet 5,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "27,50 €",
+            "28,50 €",
+            "27,00 €",
+            "29,50 €"
+          ],
+          "correctAnswer": "27,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4088,
+          "question": "Ein Heft kostet 6,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,00 €",
+            "13,00 €",
+            "11,50 €",
+            "14,00 €"
+          ],
+          "correctAnswer": "12,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4089,
+          "question": "Ein Heft kostet 6,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "19,50 €",
+            "20,50 €",
+            "19,00 €",
+            "21,50 €"
+          ],
+          "correctAnswer": "19,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4090,
+          "question": "Ein Heft kostet 2,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "8,00 €",
+            "9,00 €",
+            "7,50 €",
+            "10,00 €"
+          ],
+          "correctAnswer": "8,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4091,
+          "question": "Ein Heft kostet 2,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,50 €",
+            "13,50 €",
+            "12,00 €",
+            "14,50 €"
+          ],
+          "correctAnswer": "12,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4092,
+          "question": "Ein Heft kostet 3,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "6,00 €",
+            "7,00 €",
+            "5,50 €",
+            "8,00 €"
+          ],
+          "correctAnswer": "6,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4093,
+          "question": "Ein Heft kostet 3,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "10,50 €",
+            "11,50 €",
+            "10,00 €",
+            "12,50 €"
+          ],
+          "correctAnswer": "10,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4094,
+          "question": "Ein Heft kostet 4,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "16,00 €",
+            "17,00 €",
+            "15,50 €",
+            "18,00 €"
+          ],
+          "correctAnswer": "16,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4095,
+          "question": "Ein Heft kostet 4,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "22,50 €",
+            "23,50 €",
+            "22,00 €",
+            "24,50 €"
+          ],
+          "correctAnswer": "22,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4096,
+          "question": "Ein Heft kostet 5,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "10,00 €",
+            "11,00 €",
+            "9,50 €",
+            "12,00 €"
+          ],
+          "correctAnswer": "10,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4097,
+          "question": "Ein Heft kostet 5,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "16,50 €",
+            "17,50 €",
+            "16,00 €",
+            "18,50 €"
+          ],
+          "correctAnswer": "16,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4098,
+          "question": "Ein Heft kostet 6,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "24,00 €",
+            "25,00 €",
+            "23,50 €",
+            "26,00 €"
+          ],
+          "correctAnswer": "24,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4099,
+          "question": "Ein Heft kostet 6,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "32,50 €",
+            "33,50 €",
+            "32,00 €",
+            "34,50 €"
+          ],
+          "correctAnswer": "32,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4100,
+          "question": "Ein Heft kostet 2,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "4,00 €",
+            "5,00 €",
+            "3,50 €",
+            "6,00 €"
+          ],
+          "correctAnswer": "4,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4101,
+          "question": "Ein Heft kostet 2,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "7,50 €",
+            "8,50 €",
+            "7,00 €",
+            "9,50 €"
+          ],
+          "correctAnswer": "7,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4102,
+          "question": "Ein Heft kostet 3,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,00 €",
+            "13,00 €",
+            "11,50 €",
+            "14,00 €"
+          ],
+          "correctAnswer": "12,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4103,
+          "question": "Ein Heft kostet 3,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "17,50 €",
+            "18,50 €",
+            "17,00 €",
+            "19,50 €"
+          ],
+          "correctAnswer": "17,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4104,
+          "question": "Ein Heft kostet 4,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "8,00 €",
+            "9,00 €",
+            "7,50 €",
+            "10,00 €"
+          ],
+          "correctAnswer": "8,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4105,
+          "question": "Ein Heft kostet 4,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "13,50 €",
+            "14,50 €",
+            "13,00 €",
+            "15,50 €"
+          ],
+          "correctAnswer": "13,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4106,
+          "question": "Ein Heft kostet 5,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "20,00 €",
+            "21,00 €",
+            "19,50 €",
+            "22,00 €"
+          ],
+          "correctAnswer": "20,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4107,
+          "question": "Ein Heft kostet 5,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "27,50 €",
+            "28,50 €",
+            "27,00 €",
+            "29,50 €"
+          ],
+          "correctAnswer": "27,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4108,
+          "question": "Ein Heft kostet 6,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,00 €",
+            "13,00 €",
+            "11,50 €",
+            "14,00 €"
+          ],
+          "correctAnswer": "12,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4109,
+          "question": "Ein Heft kostet 6,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "19,50 €",
+            "20,50 €",
+            "19,00 €",
+            "21,50 €"
+          ],
+          "correctAnswer": "19,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4110,
+          "question": "Ein Heft kostet 2,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "8,00 €",
+            "9,00 €",
+            "7,50 €",
+            "10,00 €"
+          ],
+          "correctAnswer": "8,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4111,
+          "question": "Ein Heft kostet 2,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "12,50 €",
+            "13,50 €",
+            "12,00 €",
+            "14,50 €"
+          ],
+          "correctAnswer": "12,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4112,
+          "question": "Ein Heft kostet 3,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "6,00 €",
+            "7,00 €",
+            "5,50 €",
+            "8,00 €"
+          ],
+          "correctAnswer": "6,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4113,
+          "question": "Ein Heft kostet 3,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "10,50 €",
+            "11,50 €",
+            "10,00 €",
+            "12,50 €"
+          ],
+          "correctAnswer": "10,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4114,
+          "question": "Ein Heft kostet 4,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "16,00 €",
+            "17,00 €",
+            "15,50 €",
+            "18,00 €"
+          ],
+          "correctAnswer": "16,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4115,
+          "question": "Ein Heft kostet 4,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "22,50 €",
+            "23,50 €",
+            "22,00 €",
+            "24,50 €"
+          ],
+          "correctAnswer": "22,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4116,
+          "question": "Ein Heft kostet 5,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "10,00 €",
+            "11,00 €",
+            "9,50 €",
+            "12,00 €"
+          ],
+          "correctAnswer": "10,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4117,
+          "question": "Ein Heft kostet 5,50 €. Anna kauft 3 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "16,50 €",
+            "17,50 €",
+            "16,00 €",
+            "18,50 €"
+          ],
+          "correctAnswer": "16,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4118,
+          "question": "Ein Heft kostet 6,00 €. Anna kauft 4 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "24,00 €",
+            "25,00 €",
+            "23,50 €",
+            "26,00 €"
+          ],
+          "correctAnswer": "24,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4119,
+          "question": "Ein Heft kostet 6,50 €. Anna kauft 5 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "32,50 €",
+            "33,50 €",
+            "32,00 €",
+            "34,50 €"
+          ],
+          "correctAnswer": "32,50 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        },
+        {
+          "id": 4120,
+          "question": "Ein Heft kostet 2,00 €. Anna kauft 2 Stück davon. Wie viel muss sie insgesamt bezahlen?",
+          "options": [
+            "4,00 €",
+            "5,00 €",
+            "3,50 €",
+            "6,00 €"
+          ],
+          "correctAnswer": "4,00 €",
+          "hint": "Multipliziere den Einzelpreis mit der Anzahl der Hefte."
+        }
+      ]
+    },
+    "6": {
+      "word_problems": [
+        {
+          "id": 4121,
+          "question": "In einer Schule mit 110 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "33",
+            "38",
+            "28",
+            "43"
+          ],
+          "correctAnswer": "33",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4122,
+          "question": "In einer Schule mit 120 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "48",
+            "53",
+            "43",
+            "58"
+          ],
+          "correctAnswer": "48",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4123,
+          "question": "In einer Schule mit 130 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "65",
+            "70",
+            "60",
+            "75"
+          ],
+          "correctAnswer": "65",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4124,
+          "question": "In einer Schule mit 140 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "84",
+            "89",
+            "79",
+            "94"
+          ],
+          "correctAnswer": "84",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4125,
+          "question": "In einer Schule mit 150 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "30",
+            "35",
+            "25",
+            "40"
+          ],
+          "correctAnswer": "30",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4126,
+          "question": "In einer Schule mit 160 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "48",
+            "53",
+            "43",
+            "58"
+          ],
+          "correctAnswer": "48",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4127,
+          "question": "In einer Schule mit 170 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "68",
+            "73",
+            "63",
+            "78"
+          ],
+          "correctAnswer": "68",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4128,
+          "question": "In einer Schule mit 180 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "90",
+            "95",
+            "85",
+            "100"
+          ],
+          "correctAnswer": "90",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4129,
+          "question": "In einer Schule mit 190 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "114",
+            "119",
+            "109",
+            "124"
+          ],
+          "correctAnswer": "114",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4130,
+          "question": "In einer Schule mit 200 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "40",
+            "45",
+            "35",
+            "50"
+          ],
+          "correctAnswer": "40",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4131,
+          "question": "In einer Schule mit 210 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "63",
+            "68",
+            "58",
+            "73"
+          ],
+          "correctAnswer": "63",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4132,
+          "question": "In einer Schule mit 220 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "88",
+            "93",
+            "83",
+            "98"
+          ],
+          "correctAnswer": "88",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4133,
+          "question": "In einer Schule mit 230 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "115",
+            "120",
+            "110",
+            "125"
+          ],
+          "correctAnswer": "115",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4134,
+          "question": "In einer Schule mit 240 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "144",
+            "149",
+            "139",
+            "154"
+          ],
+          "correctAnswer": "144",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4135,
+          "question": "In einer Schule mit 250 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "50",
+            "55",
+            "45",
+            "60"
+          ],
+          "correctAnswer": "50",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4136,
+          "question": "In einer Schule mit 260 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "78",
+            "83",
+            "73",
+            "88"
+          ],
+          "correctAnswer": "78",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4137,
+          "question": "In einer Schule mit 270 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "108",
+            "113",
+            "103",
+            "118"
+          ],
+          "correctAnswer": "108",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4138,
+          "question": "In einer Schule mit 280 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "140",
+            "145",
+            "135",
+            "150"
+          ],
+          "correctAnswer": "140",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4139,
+          "question": "In einer Schule mit 290 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "174",
+            "179",
+            "169",
+            "184"
+          ],
+          "correctAnswer": "174",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4140,
+          "question": "In einer Schule mit 300 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "60",
+            "65",
+            "55",
+            "70"
+          ],
+          "correctAnswer": "60",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4141,
+          "question": "In einer Schule mit 310 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "93",
+            "98",
+            "88",
+            "103"
+          ],
+          "correctAnswer": "93",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4142,
+          "question": "In einer Schule mit 320 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "128",
+            "133",
+            "123",
+            "138"
+          ],
+          "correctAnswer": "128",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4143,
+          "question": "In einer Schule mit 330 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "165",
+            "170",
+            "160",
+            "175"
+          ],
+          "correctAnswer": "165",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4144,
+          "question": "In einer Schule mit 340 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "204",
+            "209",
+            "199",
+            "214"
+          ],
+          "correctAnswer": "204",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4145,
+          "question": "In einer Schule mit 350 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "70",
+            "75",
+            "65",
+            "80"
+          ],
+          "correctAnswer": "70",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4146,
+          "question": "In einer Schule mit 360 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "108",
+            "113",
+            "103",
+            "118"
+          ],
+          "correctAnswer": "108",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4147,
+          "question": "In einer Schule mit 370 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "148",
+            "153",
+            "143",
+            "158"
+          ],
+          "correctAnswer": "148",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4148,
+          "question": "In einer Schule mit 380 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "190",
+            "195",
+            "185",
+            "200"
+          ],
+          "correctAnswer": "190",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4149,
+          "question": "In einer Schule mit 390 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "234",
+            "239",
+            "229",
+            "244"
+          ],
+          "correctAnswer": "234",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4150,
+          "question": "In einer Schule mit 400 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "80",
+            "85",
+            "75",
+            "90"
+          ],
+          "correctAnswer": "80",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4151,
+          "question": "In einer Schule mit 410 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "123",
+            "128",
+            "118",
+            "133"
+          ],
+          "correctAnswer": "123",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4152,
+          "question": "In einer Schule mit 420 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "168",
+            "173",
+            "163",
+            "178"
+          ],
+          "correctAnswer": "168",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4153,
+          "question": "In einer Schule mit 430 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "215",
+            "220",
+            "210",
+            "225"
+          ],
+          "correctAnswer": "215",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4154,
+          "question": "In einer Schule mit 440 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "264",
+            "269",
+            "259",
+            "274"
+          ],
+          "correctAnswer": "264",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4155,
+          "question": "In einer Schule mit 450 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "90",
+            "95",
+            "85",
+            "100"
+          ],
+          "correctAnswer": "90",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4156,
+          "question": "In einer Schule mit 460 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "138",
+            "143",
+            "133",
+            "148"
+          ],
+          "correctAnswer": "138",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4157,
+          "question": "In einer Schule mit 470 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "188",
+            "193",
+            "183",
+            "198"
+          ],
+          "correctAnswer": "188",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4158,
+          "question": "In einer Schule mit 480 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "240",
+            "245",
+            "235",
+            "250"
+          ],
+          "correctAnswer": "240",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4159,
+          "question": "In einer Schule mit 490 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "294",
+            "299",
+            "289",
+            "304"
+          ],
+          "correctAnswer": "294",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4160,
+          "question": "In einer Schule mit 500 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "100",
+            "105",
+            "95",
+            "110"
+          ],
+          "correctAnswer": "100",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4161,
+          "question": "In einer Schule mit 510 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "153",
+            "158",
+            "148",
+            "163"
+          ],
+          "correctAnswer": "153",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4162,
+          "question": "In einer Schule mit 520 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "208",
+            "213",
+            "203",
+            "218"
+          ],
+          "correctAnswer": "208",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4163,
+          "question": "In einer Schule mit 530 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "265",
+            "270",
+            "260",
+            "275"
+          ],
+          "correctAnswer": "265",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4164,
+          "question": "In einer Schule mit 540 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "324",
+            "329",
+            "319",
+            "334"
+          ],
+          "correctAnswer": "324",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4165,
+          "question": "In einer Schule mit 550 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "110",
+            "115",
+            "105",
+            "120"
+          ],
+          "correctAnswer": "110",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4166,
+          "question": "In einer Schule mit 560 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "168",
+            "173",
+            "163",
+            "178"
+          ],
+          "correctAnswer": "168",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4167,
+          "question": "In einer Schule mit 570 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "228",
+            "233",
+            "223",
+            "238"
+          ],
+          "correctAnswer": "228",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4168,
+          "question": "In einer Schule mit 580 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "290",
+            "295",
+            "285",
+            "300"
+          ],
+          "correctAnswer": "290",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4169,
+          "question": "In einer Schule mit 590 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "354",
+            "359",
+            "349",
+            "364"
+          ],
+          "correctAnswer": "354",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4170,
+          "question": "In einer Schule mit 600 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "120",
+            "125",
+            "115",
+            "130"
+          ],
+          "correctAnswer": "120",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4171,
+          "question": "In einer Schule mit 610 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "183",
+            "188",
+            "178",
+            "193"
+          ],
+          "correctAnswer": "183",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4172,
+          "question": "In einer Schule mit 620 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "248",
+            "253",
+            "243",
+            "258"
+          ],
+          "correctAnswer": "248",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4173,
+          "question": "In einer Schule mit 630 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "315",
+            "320",
+            "310",
+            "325"
+          ],
+          "correctAnswer": "315",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4174,
+          "question": "In einer Schule mit 640 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "384",
+            "389",
+            "379",
+            "394"
+          ],
+          "correctAnswer": "384",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4175,
+          "question": "In einer Schule mit 650 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "130",
+            "135",
+            "125",
+            "140"
+          ],
+          "correctAnswer": "130",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4176,
+          "question": "In einer Schule mit 660 Schülern nehmen 30 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "198",
+            "203",
+            "193",
+            "208"
+          ],
+          "correctAnswer": "198",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4177,
+          "question": "In einer Schule mit 670 Schülern nehmen 40 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "268",
+            "273",
+            "263",
+            "278"
+          ],
+          "correctAnswer": "268",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4178,
+          "question": "In einer Schule mit 680 Schülern nehmen 50 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "340",
+            "345",
+            "335",
+            "350"
+          ],
+          "correctAnswer": "340",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4179,
+          "question": "In einer Schule mit 690 Schülern nehmen 60 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "414",
+            "419",
+            "409",
+            "424"
+          ],
+          "correctAnswer": "414",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        },
+        {
+          "id": 4180,
+          "question": "In einer Schule mit 700 Schülern nehmen 20 % an einem Projekttag teil. Wie viele Schüler sind das?",
+          "options": [
+            "140",
+            "145",
+            "135",
+            "150"
+          ],
+          "correctAnswer": "140",
+          "hint": "Multipliziere den Grundwert mit dem Prozentsatz und teile durch 100."
+        }
+      ]
+    },
+    "7": {
+      "word_problems": [
+        {
+          "id": 4181,
+          "question": "Löse die Gleichung nach x: 3x + 2 = 14. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 2 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4182,
+          "question": "Löse die Gleichung nach x: 4x + 3 = 23. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 3 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4183,
+          "question": "Löse die Gleichung nach x: 5x + 4 = 34. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 4 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4184,
+          "question": "Löse die Gleichung nach x: 2x + 5 = 19. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 5 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4185,
+          "question": "Löse die Gleichung nach x: 3x + 6 = 30. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 6 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4186,
+          "question": "Löse die Gleichung nach x: 4x + 7 = 43. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 7 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4187,
+          "question": "Löse die Gleichung nach x: 5x + 8 = 58. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 8 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4188,
+          "question": "Löse die Gleichung nach x: 2x + 9 = 15. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 9 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4189,
+          "question": "Löse die Gleichung nach x: 3x + 10 = 22. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 10 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4190,
+          "question": "Löse die Gleichung nach x: 4x + 1 = 21. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 1 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4191,
+          "question": "Löse die Gleichung nach x: 5x + 2 = 32. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 2 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4192,
+          "question": "Löse die Gleichung nach x: 2x + 3 = 17. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 3 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4193,
+          "question": "Löse die Gleichung nach x: 3x + 4 = 28. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 4 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4194,
+          "question": "Löse die Gleichung nach x: 4x + 5 = 41. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 5 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4195,
+          "question": "Löse die Gleichung nach x: 5x + 6 = 56. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 6 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4196,
+          "question": "Löse die Gleichung nach x: 2x + 7 = 13. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 7 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4197,
+          "question": "Löse die Gleichung nach x: 3x + 8 = 20. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 8 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4198,
+          "question": "Löse die Gleichung nach x: 4x + 9 = 29. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 9 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4199,
+          "question": "Löse die Gleichung nach x: 5x + 10 = 40. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 10 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4200,
+          "question": "Löse die Gleichung nach x: 2x + 1 = 15. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 1 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4201,
+          "question": "Löse die Gleichung nach x: 3x + 2 = 26. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 2 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4202,
+          "question": "Löse die Gleichung nach x: 4x + 3 = 39. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 3 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4203,
+          "question": "Löse die Gleichung nach x: 5x + 4 = 54. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 4 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4204,
+          "question": "Löse die Gleichung nach x: 2x + 5 = 11. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 5 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4205,
+          "question": "Löse die Gleichung nach x: 3x + 6 = 18. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 6 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4206,
+          "question": "Löse die Gleichung nach x: 4x + 7 = 27. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 7 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4207,
+          "question": "Löse die Gleichung nach x: 5x + 8 = 38. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 8 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4208,
+          "question": "Löse die Gleichung nach x: 2x + 9 = 23. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 9 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4209,
+          "question": "Löse die Gleichung nach x: 3x + 10 = 34. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 10 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4210,
+          "question": "Löse die Gleichung nach x: 4x + 1 = 37. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 1 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4211,
+          "question": "Löse die Gleichung nach x: 5x + 2 = 52. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 2 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4212,
+          "question": "Löse die Gleichung nach x: 2x + 3 = 9. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 3 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4213,
+          "question": "Löse die Gleichung nach x: 3x + 4 = 16. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 4 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4214,
+          "question": "Löse die Gleichung nach x: 4x + 5 = 25. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 5 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4215,
+          "question": "Löse die Gleichung nach x: 5x + 6 = 36. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 6 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4216,
+          "question": "Löse die Gleichung nach x: 2x + 7 = 21. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 7 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4217,
+          "question": "Löse die Gleichung nach x: 3x + 8 = 32. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 8 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4218,
+          "question": "Löse die Gleichung nach x: 4x + 9 = 45. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 9 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4219,
+          "question": "Löse die Gleichung nach x: 5x + 10 = 60. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 10 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4220,
+          "question": "Löse die Gleichung nach x: 2x + 1 = 7. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 1 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4221,
+          "question": "Löse die Gleichung nach x: 3x + 2 = 14. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 2 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4222,
+          "question": "Löse die Gleichung nach x: 4x + 3 = 23. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 3 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4223,
+          "question": "Löse die Gleichung nach x: 5x + 4 = 34. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 4 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4224,
+          "question": "Löse die Gleichung nach x: 2x + 5 = 19. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 5 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4225,
+          "question": "Löse die Gleichung nach x: 3x + 6 = 30. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 6 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4226,
+          "question": "Löse die Gleichung nach x: 4x + 7 = 43. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 7 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4227,
+          "question": "Löse die Gleichung nach x: 5x + 8 = 58. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 8 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4228,
+          "question": "Löse die Gleichung nach x: 2x + 9 = 15. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 9 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4229,
+          "question": "Löse die Gleichung nach x: 3x + 10 = 22. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 10 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4230,
+          "question": "Löse die Gleichung nach x: 4x + 1 = 21. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 1 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4231,
+          "question": "Löse die Gleichung nach x: 5x + 2 = 32. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 2 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4232,
+          "question": "Löse die Gleichung nach x: 2x + 3 = 17. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 3 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4233,
+          "question": "Löse die Gleichung nach x: 3x + 4 = 28. Welchen Wert hat x?",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "correctAnswer": "8",
+          "hint": "Subtrahiere zuerst 4 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4234,
+          "question": "Löse die Gleichung nach x: 4x + 5 = 41. Welchen Wert hat x?",
+          "options": [
+            "9",
+            "10",
+            "8",
+            "11"
+          ],
+          "correctAnswer": "9",
+          "hint": "Subtrahiere zuerst 5 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4235,
+          "question": "Löse die Gleichung nach x: 5x + 6 = 56. Welchen Wert hat x?",
+          "options": [
+            "10",
+            "11",
+            "9",
+            "12"
+          ],
+          "correctAnswer": "10",
+          "hint": "Subtrahiere zuerst 6 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4236,
+          "question": "Löse die Gleichung nach x: 2x + 7 = 13. Welchen Wert hat x?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "hint": "Subtrahiere zuerst 7 von beiden Seiten und teile dann durch 2."
+        },
+        {
+          "id": 4237,
+          "question": "Löse die Gleichung nach x: 3x + 8 = 20. Welchen Wert hat x?",
+          "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctAnswer": "4",
+          "hint": "Subtrahiere zuerst 8 von beiden Seiten und teile dann durch 3."
+        },
+        {
+          "id": 4238,
+          "question": "Löse die Gleichung nach x: 4x + 9 = 29. Welchen Wert hat x?",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "correctAnswer": "5",
+          "hint": "Subtrahiere zuerst 9 von beiden Seiten und teile dann durch 4."
+        },
+        {
+          "id": 4239,
+          "question": "Löse die Gleichung nach x: 5x + 10 = 40. Welchen Wert hat x?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "correctAnswer": "6",
+          "hint": "Subtrahiere zuerst 10 von beiden Seiten und teile dann durch 5."
+        },
+        {
+          "id": 4240,
+          "question": "Löse die Gleichung nach x: 2x + 1 = 15. Welchen Wert hat x?",
+          "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "correctAnswer": "7",
+          "hint": "Subtrahiere zuerst 1 von beiden Seiten und teile dann durch 2."
+        }
+      ]
+    },
+    "8": {
+      "word_problems": [
+        {
+          "id": 4241,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4242,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4243,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4244,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4245,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4246,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4247,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4248,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4249,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4250,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4251,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4252,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4253,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4254,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4255,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4256,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4257,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4258,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4259,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4260,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4261,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4262,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4263,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4264,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4265,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4266,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4267,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4268,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4269,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4270,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4271,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4272,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4273,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4274,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4275,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4276,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4277,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4278,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4279,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4280,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4281,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4282,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4283,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4284,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4285,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4286,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4287,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4288,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4289,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4290,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4291,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4292,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4293,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4294,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4295,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4296,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 6 cm und b = 8 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "9 cm",
+            "14 cm"
+          ],
+          "correctAnswer": "10 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4297,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 5 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "13 cm",
+            "15 cm",
+            "12 cm",
+            "17 cm"
+          ],
+          "correctAnswer": "13 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4298,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 9 cm und b = 12 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "15 cm",
+            "17 cm",
+            "14 cm",
+            "19 cm"
+          ],
+          "correctAnswer": "15 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4299,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 8 cm und b = 15 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "17 cm",
+            "19 cm",
+            "16 cm",
+            "21 cm"
+          ],
+          "correctAnswer": "17 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        },
+        {
+          "id": 4300,
+          "question": "Im rechtwinkligen Dreieck sind die Katheten a = 3 cm und b = 4 cm lang. Wie lang ist die Hypotenuse c?",
+          "options": [
+            "5 cm",
+            "7 cm",
+            "4 cm",
+            "9 cm"
+          ],
+          "correctAnswer": "5 cm",
+          "hint": "Nutze den Satz des Pythagoras: a² + b² = c²."
+        }
+      ]
+    }
+  }
+}
