@@ -1,0 +1,24 @@
+{
+  "room_config": {
+    "sleep_duration_minutes": 30,
+    "initial_visit_state": "traurig",
+    "repeat_visit_state": "hunger",
+    "sleep_state": "schlafen"
+  },
+  "rewards": [
+    {
+      "id": "apple",
+      "name": "Apfel",
+      "icon": "🍎",
+      "cost": 1,
+      "action_video": "apfel"
+    },
+    {
+      "id": "ball",
+      "name": "Ball",
+      "icon": "⚽",
+      "cost": 1,
+      "action_video": "freutsich"
+    }
+  ]
+}
