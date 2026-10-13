@@ -1,0 +1,60 @@
+{
+  "grade": 6,
+  "decimals": [
+    {
+      "id": 601,
+      "question": "Berechne: 14.25 × 3.5 =",
+      "options": ["49.875", "48.250", "50.125", "47.950"],
+      "correctAnswer": "49.875",
+      "hint": "Multipliziere wie natürliche Zahlen und setze das Komma (insgesamt 3 Nachkommastellen)."
+    },
+    {
+      "id": 602,
+      "question": "Berechne: 45.6 ÷ 1.2 =",
+      "options": ["38", "36", "40", "35"],
+      "correctAnswer": "38",
+      "hint": "Erweitere beide Zahlen mit 10, sodass du 456 ÷ 12 rechnest."
+    }
+  ],
+  "fractions": [
+    {
+      "id": 611,
+      "question": "Berechne und kürze vollständig: 3/4 + 5/6 =",
+      "options": ["1 und 7/12", "1 und 1/4", "8/10", "1 und 5/12"],
+      "correctAnswer": "1 und 7/12",
+      "hint": "Hauptnenner ist 12. 3/4 = 9/12 und 5/6 = 10/12."
+    },
+    {
+      "id": 612,
+      "question": "Berechne: 2/3 × 9/10 =",
+      "options": ["3/5", "2/5", "3/4", "9/15"],
+      "correctAnswer": "3/5",
+      "hint": "Multipliziere Zähler mit Zähler und kürze vorab!"
+    }
+  ],
+  "volume_area_g6": [
+    {
+      "id": 621,
+      "question": "Ein Quader hat die Maße l = 25 cm, b = 10 cm, h = 8 cm. Wie groß ist das Volumen in Liter (l)?",
+      "options": ["2 Liter", "1.5 Liter", "2.5 Liter", "3 Liter"],
+      "correctAnswer": "2 Liter",
+      "hint": "Volumen in cm³ berechnen: 25 · 10 · 8 = 2000 cm³. 1000 cm³ = 1 dm³ = 1 Liter."
+    },
+    {
+      "id": 622,
+      "question": "Wandle um: 2.5 ha in Quadratmeter (m²)",
+      "options": ["25 000 m²", "2 500 m²", "250 000 m²", "250 m²"],
+      "correctAnswer": "25 000 m²",
+      "hint": "1 ha = 10 000 m²."
+    }
+  ],
+  "word_problems": [
+    {
+      "id": 4121,
+      "question": "Ein Fahrrad kostet regulär 450 €. Im Winterschlussverkauf wird es um 15 % reduziert. Wie hoch ist der neue Preis?",
+      "options": ["382.50 €", "395.00 €", "370.00 €", "405.00 €"],
+      "correctAnswer": "382.50 €",
+      "hint": "Berechne 15 % von 450 € und ziehe diesen Betrag vom Ursprungspreis ab."
+    }
+  ]
+}

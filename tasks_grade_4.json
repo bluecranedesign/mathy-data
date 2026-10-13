@@ -1,0 +1,95 @@
+{
+  "grade": 4,
+  "einmaleins": [
+    {
+      "id": 401,
+      "question": "Was ist 14 × 7?",
+      "options": ["98", "88", "104", "92"],
+      "correctAnswer": "98",
+      "hint": "Rechne 10 × 7 und 4 × 7 zusammen."
+    },
+    {
+      "id": 402,
+      "question": "Was ist 18 × 6?",
+      "options": ["108", "98", "118", "112"],
+      "correctAnswer": "108",
+      "hint": "Rechne 10 × 6 = 60 und 8 × 6 = 48."
+    },
+    {
+      "id": 403,
+      "question": "Was ist 125 ÷ 5?",
+      "options": ["25", "20", "30", "35"],
+      "correctAnswer": "25",
+      "hint": "100 ÷ 5 = 20 und 25 ÷ 5 = 5."
+    },
+    {
+      "id": 404,
+      "question": "Was ist 16 × 8?",
+      "options": ["128", "118", "138", "126"],
+      "correctAnswer": "128",
+      "hint": "10 × 8 = 80 und 6 × 8 = 48."
+    }
+  ],
+  "units_g4": [
+    {
+      "id": 411,
+      "question": "Rechne um: 3 m 45 cm = ? cm",
+      "options": ["345", "3045", "3450", "354"],
+      "correctAnswer": "345",
+      "hint": "3 m = 300 cm, dazu noch 45 cm."
+    },
+    {
+      "id": 412,
+      "question": "Rechne um: 2 kg 350 g = ? g",
+      "options": ["2350", "2035", "2305", "2530"],
+      "correctAnswer": "2350",
+      "hint": "2 kg = 2000 g plus 350 g."
+    },
+    {
+      "id": 413,
+      "question": "Rechne um: 4 l 75 ml = ? ml",
+      "options": ["4075", "475", "4750", "40075"],
+      "correctAnswer": "4075",
+      "hint": "1 Liter hat 1000 ml. Achtung auf die Zehner!"
+    },
+    {
+      "id": 414,
+      "question": "Rechne um: 5 km 200 m = ? m",
+      "options": ["5200", "5020", "50020", "520"],
+      "correctAnswer": "5200",
+      "hint": "5 km = 5000 m + 200 m."
+    }
+  ],
+  "add_sub": [
+    {
+      "id": 421,
+      "question": "Schriftliche Rechnung: 3450 + 1870 - 620 = ?",
+      "options": ["4700", "4600", "4800", "4550"],
+      "correctAnswer": "4700",
+      "hint": "Addiere zuerst 3450 und 1870, ziehe dann 620 ab."
+    },
+    {
+      "id": 422,
+      "question": "Schriftliche Subtraktion: 5000 - 1635 = ?",
+      "options": ["3365", "3465", "3265", "3375"],
+      "correctAnswer": "3365",
+      "hint": "Beachte den Übertrag bei den Stellen."
+    },
+    {
+      "id": 423,
+      "question": "Berechne: 2340 + 4560 - 1200 = ?",
+      "options": ["5700", "5600", "5800", "5500"],
+      "correctAnswer": "5700",
+      "hint": "Punkt- bzw. Strichrechnung von links nach rechts."
+    }
+  ],
+  "word_problems": [
+    {
+      "id": 4001,
+      "question": "Lukas spart Taschengeld. Er hat bereits 48 € und spart jeden Monat 12 € dazu. Wie viel Geld hat er nach einem halben Jahr (6 Monate) gesamt?",
+      "options": ["120 €", "108 €", "132 €", "114 €"],
+      "correctAnswer": "120 €",
+      "hint": "Rechne 6 Monate mal 12 € und addiere die 48 € Startguthaben."
+    }
+  ]
+}

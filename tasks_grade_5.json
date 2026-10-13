@@ -1,0 +1,74 @@
+{
+  "grade": 5,
+  "mult_div": [
+    {
+      "id": 501,
+      "question": "Berechne schriftlich: 38 × 24 =",
+      "options": ["912", "892", "932", "882"],
+      "correctAnswer": "912",
+      "hint": "Multipliziere zuerst 38 mit 4 und dann mit 20."
+    },
+    {
+      "id": 502,
+      "question": "Berechne: 1250 ÷ 25 =",
+      "options": ["50", "45", "55", "60"],
+      "correctAnswer": "50",
+      "hint": "Überlege: 100 ÷ 25 = 4, also 1000 ÷ 25 = 40."
+    },
+    {
+      "id": 503,
+      "question": "Berechne: 540 × 15 =",
+      "options": ["8100", "7900", "8250", "7500"],
+      "correctAnswer": "8100",
+      "hint": "Rechne 540 × 10 + 540 × 5."
+    }
+  ],
+  "units": [
+    {
+      "id": 511,
+      "question": "Rechne um: 4 km 350 m = ? m",
+      "options": ["4350", "4035", "435", "40350"],
+      "correctAnswer": "4350",
+      "hint": "1 km = 1000 m."
+    },
+    {
+      "id": 512,
+      "question": "Rechne um: 3 t 450 kg = ? kg",
+      "options": ["3450", "3045", "345", "30450"],
+      "correctAnswer": "3450",
+      "hint": "1 t = 1000 kg."
+    },
+    {
+      "id": 513,
+      "question": "Rechne um: 2 m² 45 dm² = ? dm²",
+      "options": ["245", "2045", "2450", "225"],
+      "correctAnswer": "245",
+      "hint": "1 m² = 100 dm². Also 2 m² = 200 dm² + 45 dm²."
+    }
+  ],
+  "area_g5": [
+    {
+      "id": 521,
+      "question": "Ein Grundstück ist 45 m lang und 20 m breit. Wie groß ist der Flächeninhalt in m²?",
+      "options": ["900 m²", "850 m²", "950 m²", "1000 m²"],
+      "correctAnswer": "900 m²",
+      "hint": "Fläche = Länge mal Breite (45 · 20)."
+    },
+    {
+      "id": 522,
+      "question": "Ein quadratischer Sportplatz hat eine Seitenlänge von 75 m. Wie groß ist die Fläche?",
+      "options": ["5625 m²", "5525 m²", "5725 m²", "6000 m²"],
+      "correctAnswer": "5625 m²",
+      "hint": "Quadratfläche = 75 × 75."
+    }
+  ],
+  "word_problems": [
+    {
+      "id": 4061,
+      "question": "Familie Müller fährt in den Urlaub. Die Strecke beträgt 720 km. Sie fahren mit dem Auto und machen nach 3/4 der Strecke eine Pause. Nach wie vielen Kilometern machen sie Pause?",
+      "options": ["540 km", "480 km", "560 km", "600 km"],
+      "correctAnswer": "540 km",
+      "hint": "Berechne 720 geteilt durch 4 und nimm das Ergebnis mal 3."
+    }
+  ]
+}

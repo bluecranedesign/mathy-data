@@ -1,0 +1,37 @@
+{
+  "grade": 7,
+  "equations": [
+    {
+      "id": 701,
+      "question": "Löse die lineare Gleichung nach x: 5(x - 2) = 3x + 4. Welchen Wert hat x?",
+      "options": ["7", "6", "8", "5"],
+      "correctAnswer": "7",
+      "hint": "Multipliziere erst die Klammer aus: 5x - 10 = 3x + 4. Bringe x auf eine Seite."
+    },
+    {
+      "id": 702,
+      "question": "Löse nach x: 4x + 12 = 2(x + 16). Welchen Wert hat x?",
+      "options": ["10", "8", "12", "6"],
+      "correctAnswer": "10",
+      "hint": "Klammer auflösen: 4x + 12 = 2x + 32."
+    }
+  ],
+  "percentages": [
+    {
+      "id": 711,
+      "question": "Ein Laptop kostet nach einer Preiserhöhung von 8 % nun 540 €. Wie viel kostete er vorher (Grundwert)?",
+      "options": ["500 €", "520 €", "495 €", "510 €"],
+      "correctAnswer": "500 €",
+      "hint": "540 € entsprechen 108 %. Teile durch 108 und nimm mal 100."
+    }
+  ],
+  "word_problems": [
+    {
+      "id": 4181,
+      "question": "In einer Klasse sind 28 Schülerinnen und Schüler. 75 % spielen ein Instrument. Wie viele Schüler spielen kein Instrument?",
+      "options": ["7", "6", "8", "9"],
+      "correctAnswer": "7",
+      "hint": "Wenn 75 % ein Instrument spielen, spielen 25 % keines (1 Viertel von 28)."
+    }
+  ]
+}

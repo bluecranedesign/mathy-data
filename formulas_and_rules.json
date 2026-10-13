@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": "pythagoras",
+      "title": "Satz des Pythagoras",
+      "content": "In jedem rechtwinkligen Dreieck ist die Summe der Flächeninhalt der Kathetenquadrate gleich dem Flächeninhalt des Hypotenusenquadrats: a² + b² = c²."
+    },
+    {
+      "id": "percentage",
+      "title": "Prozentrechnung",
+      "content": "Prozentwert W = (Grundwert G * Prozentsatz p) / 100."
+    }
+  ]
+}
