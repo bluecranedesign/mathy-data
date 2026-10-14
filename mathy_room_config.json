@@ -8,23 +8,25 @@
   "rewards": [
     {
       "id": "apple",
-      "name": "Apfel",
+      "name": "Mathy füttern",
       "icon": "🍎",
       "cost": 1,
+      "currency": "apple",
       "action_video": "apfel"
     },
     {
       "id": "ball",
-      "name": "Ball",
+      "name": "Mit Ball spielen",
       "icon": "⚽",
       "cost": 1,
       "action_video": "freutsich"
-    }, 
+    },
     {
       "id": "book",
       "name": "Buch",
       "icon": "📖",
-      "cost": 1,
+      "cost": 10,
+      "currency": "apple",
       "action_video": "freutsich"
     }
   ]
