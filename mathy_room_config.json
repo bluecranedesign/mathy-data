@@ -18,7 +18,7 @@
       "id": "ball",
       "name": "Mit Ball spielen",
       "icon": "⚽",
-      "cost": 5,
+      "cost": 1,
       "currency": "apple",
       "action_video": "freutsich"
     },
@@ -26,8 +26,8 @@
       "id": "book",
       "name": "Buch vorlesen",
       "icon": "📖",
-      "cost": 10,
-      "currency": "ball",
+      "cost": 1,
+      "currency": "apple",
       "action_video": "sportmeister"
     }
   ],
