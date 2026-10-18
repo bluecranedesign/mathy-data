@@ -168,7 +168,7 @@
     { "id": 159, "difficulty": "easy", "question": "Ben hat 7 Sticker und findet 3. Gesamt?", "options": ["10", "9", "11", "8"], "correctAnswer": "10", "hint": "" },
     { "id": 160, "difficulty": "easy", "question": "Ein Tag hat 24 Stunden. Wie viele Stunden haben 2 Tage?", "options": ["48 Std.", "36 Std.", "50 Std.", "42 Std."], "correctAnswer": "48 Std.", "hint": "" },
     { "id": 161, "difficulty": "easy", "question": "Eine Katze hat 4 Beine. 3 Katzen haben?", "options": ["12", "10", "14", "16"], "correctAnswer": "12", "hint": "" },
-    { "id": 162, "difficulty": "easy", "question": "Ein Ei kostet 20 Cent. 5 Eier kosten?", "options": ["100 Cent (1 €)", "80 Cent", "120 Cent", "50 Cent"], "correctAnswer": "100 Cent (1 €)", "hint": "" },
+    { "id": 162, "difficulty": "easy", "question": "Ein Ei kostet 20 Cent. 5 Eier kosten?", "options": ["1 €", "80 Cent", "120 Cent", "50 Cent"], "correctAnswer": "1 €", "hint": "" },
     { "id": 163, "difficulty": "easy", "question": "Lea liest jeden Tag 5 Seiten. Nach 3 Tagen hat sie gelesen:", "options": ["15 Seiten", "12 Seiten", "18 Seiten", "10 Seiten"], "correctAnswer": "15 Seiten", "hint": "" },
     { "id": 164, "difficulty": "easy", "question": "Ein Blumenstrauß hat 10 Blumen. 4 Rosen werden welk. Rest?", "options": ["6 Blumen", "5 Blumen", "7 Blumen", "4 Blumen"], "correctAnswer": "6 Blumen", "hint": "" },
     { "id": 165, "difficulty": "easy", "question": "Tim hat 8 Murmeln und verliert 3. Rest?", "options": ["5", "4", "6", "3"], "correctAnswer": "5", "hint": "" },
