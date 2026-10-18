@@ -32,6 +32,7 @@
     }
   ],
   "media_files": [
+    { "name": "xbday.mp4", "url": "https://raw.githubusercontent.com/bluecranedesign/mathy-data/refs/heads/main/xbday.mp4" },
     { "name": "sportmeister.mp4", "url": "https://raw.githubusercontent.com/bluecranedesign/mathy-data/refs/heads/main/sportmeister.mp4" },
     { "name": "grimasse1.mp4", "url": "https://raw.githubusercontent.com/bluecranedesign/mathy-data/refs/heads/main/grimasse1.mp4" },
     { "name": "halloween.mp4", "url": "https://raw.githubusercontent.com/bluecranedesign/mathy-data/refs/heads/main/halloween.mp4" },
