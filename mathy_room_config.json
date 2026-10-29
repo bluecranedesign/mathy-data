@@ -1,6 +1,6 @@
 {
   "room_config": {
-    "sleep_duration_minutes": 30,
+    "sleep_duration_minutes": 120,
     "initial_visit_state": "traurig",
     "repeat_visit_state": "hunger",
     "sleep_state": "schlafen"
